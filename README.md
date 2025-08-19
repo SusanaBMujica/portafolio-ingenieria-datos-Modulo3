@@ -17,3 +17,8 @@ A continuación, algunos de los proyectos que he desarrollado durante mi curso:
 -Descripcion: Crecion de matrices, operaciones basicas a matrices, copia y analisis comparativo de matrices.
 # Tecnologia: Python, Numpy
 # Enlace:https://colab.research.google.com/drive/1u5almo9d6RurbZurUATQKczjdp-hxdfn?usp=sharing
+
+# Proyecto 12: Ejercicios de aplicación #2 La librería pandas
+-Descripcion:manipulación, análisis y transformación de datos utilizando Pandas. Trabajarás con un conjunto de datos estructurado y aplicarás diversas operaciones para limpiarlo, organizarlo y extraer información clave.
+# Tecnologia: Python, Pandas
+# Enlace:https://colab.research.google.com/drive/1zPRYPCitMiRQcPIX040NlSJQ4MwjEavY?usp=sharing
